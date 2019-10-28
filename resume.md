@@ -18,11 +18,11 @@ GEORGE ALLISON
   - JavaScripting for a dynamic interface that operates uniquely depending on user device (ie. iOS or Android). This page is listed on personal website.
 ---
 #### EDUCATION
-- **Seattle Central College**, Capitol Hill — *Career Certificate*
+- **Seattle Central College**, Capitol Hill — *Career Certificate*<br>
   *January 2019 - December 2019*
   - Learned object-oriented programming front and back end languages in eleven months (listed).
   - Personal favorite experience was learning MERN stack for a basic web  app implementation.
-- **Western Washington University**, Bellingham — *BA Performance*
+- **Western Washington University**, Bellingham — *BA Performance*<br>
   *September 2010 - June 2015*
   - BA in Music Performance
   - Achievements: Principal Position, Winner of the Concerto Competition.
