@@ -45,9 +45,9 @@ GEORGE ALLISON
 ---
 #### NOTABLE AWARDS
 - **Dean's List**: 
-  - Maintained a Dean's Listing status for all 4 quarters at Seattle Central College.
+  - Maintained a Dean's listing status for all 4 quarters at Seattle Central College.
 - **Concerto Competition**:
-  - Won a University-wide Concerto Competition
+  - Won a university-wide Concerto Competition
 ---
 #### HOBBIES
   - Jazz vibraphone and drum set
